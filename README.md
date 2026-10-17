@@ -37,7 +37,8 @@ Depending on the detected badge, the system displays an appropriate message and 
 
 The following diagram illustrates the complete hardware setup, including the Arduino Uno, RC522 RFID reader, LCD display, and relay module.
 
-![RFID Pass V1 - Complete Wiring Diagram](<img width="2880" height="2160" alt="image" src="https://github.com/user-attachments/assets/146c9662-1521-436a-ae3b-ca6f7d98530d" />
+![RFID Pass V1 - Complete Wiring Diagram](<img width="2880" height="2160" alt="IMG_2436" src="https://github.com/user-attachments/assets/68438e15-8544-49c8-9411-3262081ea2f9" />
+
 )
 
 *Figure 1 — Complete RFID Pass V1 circuit diagram.*
@@ -55,7 +56,8 @@ ACCES AUTORISE
 Ouverture...
 ```
 
-![RFID Pass V1 - Access Granted](<img width="2880" height="2160" alt="image" src="https://github.com/user-attachments/assets/bb6725f5-5aa0-4262-86e6-ed3f9d849447" />
+![RFID Pass V1 - Access Granted](<img width="2880" height="2160" alt="IMG_2434" src="https://github.com/user-attachments/assets/a41976a7-e358-4072-af4b-6a376e764671" />
+
 )
 
 *Figure 2 — Authorized RFID badge detected and relay activated.*
@@ -78,7 +80,8 @@ BADGE INCONNU
 ACCES REFUSE
 ```
 
-![RFID Pass V1 - Access Denied](<img width="2880" height="2160" alt="image" src="https://github.com/user-attachments/assets/0347bca9-6377-431a-9bcc-393309c8aba5" />
+![RFID Pass V1 - Access Denied](<img width="2880" height="2160" alt="IMG_2435" src="https://github.com/user-attachments/assets/56c9bd8f-617b-4d8b-b765-c0e86f2c7361" />
+
 )
 
 *Figure 3 — Unauthorized RFID badge detected.*
