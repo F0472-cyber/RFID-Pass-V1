@@ -172,4 +172,22 @@ External locks or other higher-power loads require a suitable power supply, elec
 
 ## Future Improvements
 
--
+- [ ] Add a web-based administration dashboard.
+- [ ] Implement access event logging.
+- [x] Add a database for managing authorized users.
+- [ ] Integrate a local server.
+- [ ] Improve RFID authentication security.
+- [ ] Develop a custom PCB.
+- [ ] Improve the hardware enclosure and cable management.
+
+## Project Status
+
+**Version:** V1.0  
+**Platform:** Arduino Uno R3  
+**Category:** Embedded Systems / RFID / Electronics
+
+This project was developed as part of a school team project, providing hands-on experience in embedded programming, electronics, and cybersecurity.
+
+---
+
+Developed by [F0472-cyber](https://github.com/F0472-cyber) in collaboration with my school project team.
