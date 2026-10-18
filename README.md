@@ -175,7 +175,7 @@ External locks or other higher-power loads require a suitable power supply, elec
 - [ ] Add a web-based administration dashboard.
 - [ ] Implement access event logging.
 - [x] Add a database for managing authorized users.
-- [ ] Integrate a local server.
+- [x] Integrate a local server.
 - [ ] Improve RFID authentication security.
 - [ ] Develop a custom PCB.
 - [ ] Improve the hardware enclosure and cable management.
